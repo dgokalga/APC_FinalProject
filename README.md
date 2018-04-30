@@ -28,6 +28,8 @@ feature text box, and creA in the attribute text box and click submit.
 The interface will display and output the nucleotide sequence, sequence length, GC content, 
 protein full name, protein sequence, protein length, and amino-acid composition of creA. 
 
-
+* References *
+All data used, the genomic fasta file, genomic gff3 file and protein fasta file for Escherichia coli 
+were provided by NCBI database
 
 
